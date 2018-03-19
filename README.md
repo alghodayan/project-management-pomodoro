@@ -1,4 +1,4 @@
-# Project Management for (project name)
+# Project Management for GitHub pomodoro time tracking
 
 This repo is designed to guide you in planning and managing the process of designing, building, and deploying a system-- either software, hardware, or a combination.
 
